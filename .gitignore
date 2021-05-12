@@ -1,0 +1,5 @@
+.stack-work/
+*~
+imageCompressor
+imageCompress-exe
+imageCompress.cabal
